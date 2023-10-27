@@ -50,7 +50,6 @@ ol {
 .content {
   margin-inline: auto;
   margin-block: auto;
-  padding-block: 113px;
   max-inline-size: 1140px;
   max-block-size: 534px;
   display: grid;
