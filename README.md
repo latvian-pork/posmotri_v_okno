@@ -1,0 +1,1 @@
+https://github.com/latvian-pork/posmotri_v_okno.git
