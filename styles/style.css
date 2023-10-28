@@ -95,7 +95,7 @@ ol {
   overflow: clip;
 }
 
-.content__list-item:not(last-of-type) {
+.content__list-item:not(:last-of-type) {
   margin-block-end: 30px;
 }
 
@@ -120,7 +120,7 @@ ol {
 
 .search-form__fieldset-title {
   color: #fff;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -165,7 +165,7 @@ ol {
 .content__video-card-description {
   color: #fff;
 
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -190,7 +190,7 @@ ol {
   border-block-end: 1px solid #fff;
   color: #fff;
   opacity: 0.7;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -225,7 +225,7 @@ ol {
   color: #fff;
 
   text-align: center;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
